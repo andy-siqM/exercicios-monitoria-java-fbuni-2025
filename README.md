@@ -14,7 +14,9 @@ Implemente métodos públicos getter e setter para cada atributo, obedecendo as 
 
 No método `main`, crie um objeto da classe `Produto`, utilize os setters para definir os valores dos atributos (incluindo tentativas de valores negativos) e, em seguida, use os getters para exibir os valores finais de cada atributo.
 
-## 📝 Resposta 
-[Criação da classe Produto] (Produto.java)
+## 📝 Resposta
+*Criação da classe `Produto`
+[Produto.java] 
 
-[Criação da classe para execução e teste] (TesteProduto.java)
+*Criação da classe para execução e teste
+[TesteProduto.java]
